@@ -1,0 +1,2 @@
+# Projeto para predição do preço de casas utilizando regressão linear
+ Nesse projeto foram criados gráficos das variáveis, visando enteder o seu comportamento. Também foram aplicadas técnicas de pré-processamento dos dados. Por fim, foi criado um modelo utilizando o "LinearRegression" do "SKlearn".
